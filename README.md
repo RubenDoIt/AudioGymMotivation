@@ -9,3 +9,4 @@ pip install -r requirements.txt
 
 #Uso
 python main.py
+git
